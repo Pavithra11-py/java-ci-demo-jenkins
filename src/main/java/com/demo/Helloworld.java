@@ -4,6 +4,6 @@ public class Helloworld{
 	
 	public static void main(String[] args){
 
-		System.out.println{"Hello from JENKINS CI pipeline!"};
+		System.out.println("Hello from JENKINS CI pipeline!");
 		}
 	}
